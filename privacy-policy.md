@@ -51,7 +51,3 @@ This Bot is operated by an individual developer. Since no personal data is colle
 ## Your Rights
 
 Under GDPR, you have rights regarding your personal data, including access, correction, and deletion. Since this Bot does not collect or store any personal data, these rights do not apply in practice.
-
-## Contact
-
-If you have questions about this Privacy Policy, you can contact the developer on Discord: **arpe2213**
