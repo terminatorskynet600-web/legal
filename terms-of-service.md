@@ -48,7 +48,3 @@ We reserve the right to block any user or server from using our Discord bot at o
 ## 10. Changes to Terms
 
 We may update these Terms at any time. Continued use of our Discord bot after changes constitutes acceptance of the new Terms.
-
-## 11. Contact
-
-If you have questions about these Terms, you can contact the developer on Discord: **arpe2213**
